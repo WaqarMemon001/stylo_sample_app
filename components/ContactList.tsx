@@ -3,6 +3,7 @@ import React from 'react'
 
 export default function ContactList() {
     const contacts = [
+        
         {
             uid: 1,
             name: 'Hitesh Choudhary',
